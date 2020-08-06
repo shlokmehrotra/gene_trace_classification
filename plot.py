@@ -1,3 +1,7 @@
+
+
+# ALL CURRENT CODE PROCESSES IS IN NOTEBOOK (ONLY USED IN READING DATA)
+
 import numpy as np
 import pandas as pd
 import csv
